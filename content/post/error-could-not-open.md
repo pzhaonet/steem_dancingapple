@@ -11,7 +11,7 @@ tags:
   - blog
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/error-could-not-open.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/error-could-not-open), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/error-could-not-open), [busy.org](https://busy.org/cn/@dancingapple/error-could-not-open), [steemdb.com](https://steemdb.com/cn/@dancingapple/error-could-not-open), [steemd.com](https://steemd.com/cn/@dancingapple/error-could-not-open)
 
 <html>
 <p>温馨提示：此文无聊，慎点。<br>

@@ -10,7 +10,7 @@ tags:
   - life
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/6fyvxu.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/6fyvxu), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/6fyvxu), [busy.org](https://busy.org/cn/@dancingapple/6fyvxu), [steemdb.com](https://steemdb.com/cn/@dancingapple/6fyvxu), [steemd.com](https://steemd.com/cn/@dancingapple/6fyvxu)
 
 ![微信图片_20170917183203.jpg](https://steemitimages.com/DQmSM9hTiNr6ZdaZeDEqPfz27mg7jhT1tKgH7GZM6mdGQsn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170917183203.jpg)
 

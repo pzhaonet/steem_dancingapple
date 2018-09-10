@@ -9,7 +9,7 @@ tags:
   - cn
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/4p2dfy.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/4p2dfy), [cnsteem.com](https://cnsteem.com/art/@dancingapple/4p2dfy), [busy.org](https://busy.org/art/@dancingapple/4p2dfy), [steemdb.com](https://steemdb.com/art/@dancingapple/4p2dfy), [steemd.com](https://steemd.com/art/@dancingapple/4p2dfy)
 
 <html>
 <p>嗯，其实，题目与本文无关，它只是我刚画画时听的其中一首歌而已。</p>

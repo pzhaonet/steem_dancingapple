@@ -9,7 +9,7 @@ tags:
   - cn
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/4gqlkr.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/4gqlkr), [cnsteem.com](https://cnsteem.com/art/@dancingapple/4gqlkr), [busy.org](https://busy.org/art/@dancingapple/4gqlkr), [steemdb.com](https://steemdb.com/art/@dancingapple/4gqlkr), [steemd.com](https://steemd.com/art/@dancingapple/4gqlkr)
 
 <html>
 <p>https://steemitimages.com/DQmebZ2X51fBaJStmdcwTDSQ8jytXB5J4hZhpKUWtXMCNH8/3FE48725-D3FE-4769-BDC8-9C9C205EF18F.jpeg</p>

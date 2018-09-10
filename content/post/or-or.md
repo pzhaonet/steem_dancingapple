@@ -11,7 +11,7 @@ tags:
   - photography
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/or-or.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/or-or), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/or-or), [busy.org](https://busy.org/cn/@dancingapple/or-or), [steemdb.com](https://steemdb.com/cn/@dancingapple/or-or), [steemd.com](https://steemd.com/cn/@dancingapple/or-or)
 
 ![6DA293A0-3995-4A1A-88D6-FAAAA430B0FB.jpeg](https://steemitimages.com/DQmP7Kd9gMXbhMLRMFmcEZjh6vdvaC5rHuRawd6pjbTFVxe/6DA293A0-3995-4A1A-88D6-FAAAA430B0FB.jpeg)
 

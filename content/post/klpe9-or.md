@@ -11,7 +11,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/klpe9-or.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/klpe9-or), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/klpe9-or), [busy.org](https://busy.org/cn/@dancingapple/klpe9-or), [steemdb.com](https://steemdb.com/cn/@dancingapple/klpe9-or), [steemd.com](https://steemd.com/cn/@dancingapple/klpe9-or)
 
 ![img-6c3e6b13gy1fn02tew455g20dw0kudr1.gif](https://steemitimages.com/DQmQWJLXSskBgGmkxNN5ozYbzV6v5LFCVb9nyKkdxcMvbfL/img-6c3e6b13gy1fn02tew455g20dw0kudr1.gif)
  

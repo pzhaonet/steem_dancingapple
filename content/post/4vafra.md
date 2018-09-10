@@ -9,7 +9,7 @@ tags:
   - blog
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/4vafra.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/4vafra), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/4vafra), [busy.org](https://busy.org/cn/@dancingapple/4vafra), [steemdb.com](https://steemdb.com/cn/@dancingapple/4vafra), [steemd.com](https://steemd.com/cn/@dancingapple/4vafra)
 
 https://cdn.steemitimages.com/DQmTgjFEZreUfRBbVKU8pT5s7nKUUKi2AXSPPHbUhzs6ht2/A378AD83-8BB9-4B52-8CA5-45E6723BB370.gif
 

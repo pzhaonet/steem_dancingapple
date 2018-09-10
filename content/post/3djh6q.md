@@ -10,7 +10,7 @@ tags:
   - cn-chat
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3djh6q.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/3djh6q), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/3djh6q), [busy.org](https://busy.org/cn/@dancingapple/3djh6q), [steemdb.com](https://steemdb.com/cn/@dancingapple/3djh6q), [steemd.com](https://steemd.com/cn/@dancingapple/3djh6q)
 
 这是一个关于中国书法鉴赏方面的话题。
 

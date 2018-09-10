@@ -11,7 +11,7 @@ tags:
   - history
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/5vxpb8.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/5vxpb8), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/5vxpb8), [busy.org](https://busy.org/cn/@dancingapple/5vxpb8), [steemdb.com](https://steemdb.com/cn/@dancingapple/5vxpb8), [steemd.com](https://steemd.com/cn/@dancingapple/5vxpb8)
 
 ![mmexport1516790391323.jpg](https://steemitimages.com/DQmSPhoUhciwnvBH3WYN78AzJ7pwRisvJnFzNELu74UgHQw/mmexport1516790391323.jpg)
  

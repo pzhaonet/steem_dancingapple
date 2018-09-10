@@ -11,7 +11,7 @@ tags:
   - wei-stor
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/ipqxvbxr.md)
+Links: [steemit.com](https://steemit.com/wei-story/@dancingapple/ipqxvbxr), [cnsteem.com](https://cnsteem.com/wei-story/@dancingapple/ipqxvbxr), [busy.org](https://busy.org/wei-story/@dancingapple/ipqxvbxr), [steemdb.com](https://steemdb.com/wei-story/@dancingapple/ipqxvbxr), [steemd.com](https://steemd.com/wei-story/@dancingapple/ipqxvbxr)
 
 ![https://s3.us-east-2.amazonaws.com/partiko.io/img/dancingapple-ipqxvbxr-1536488452578.png](https://s3.us-east-2.amazonaws.com/partiko.io/img/dancingapple-ipqxvbxr-1536488452578.png)
 

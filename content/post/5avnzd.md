@@ -9,7 +9,7 @@ tags:
   - cn
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/5avnzd.md)
+Links: [steemit.com](https://steemit.com/cn-reader/@dancingapple/5avnzd), [cnsteem.com](https://cnsteem.com/cn-reader/@dancingapple/5avnzd), [busy.org](https://busy.org/cn-reader/@dancingapple/5avnzd), [steemdb.com](https://steemdb.com/cn-reader/@dancingapple/5avnzd), [steemd.com](https://steemd.com/cn-reader/@dancingapple/5avnzd)
 
 黄昏，她穿过村里的小路，向北直走爬上小山坡。
 铺开一张棉麻老布，从竹篓子里掏出一瓶小酒，一小盒子炸腰果。

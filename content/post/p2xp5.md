@@ -11,7 +11,7 @@ tags:
   - blog
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/p2xp5.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/p2xp5), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/p2xp5), [busy.org](https://busy.org/cn/@dancingapple/p2xp5), [steemdb.com](https://steemdb.com/cn/@dancingapple/p2xp5), [steemd.com](https://steemd.com/cn/@dancingapple/p2xp5)
 
 ![mmexport1514653321859.jpg](https://steemitimages.com/DQmPxcqtqUnctWYejeAhX7tajZTHbQTbAyuYk49Mi4xQ8tz/mmexport1514653321859.jpg)
 

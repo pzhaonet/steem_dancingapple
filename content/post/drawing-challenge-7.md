@@ -11,7 +11,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/drawing-challenge-7.md)
+Links: [steemit.com](https://steemit.com/drawingchallenge/@dancingapple/drawing-challenge-7), [cnsteem.com](https://cnsteem.com/drawingchallenge/@dancingapple/drawing-challenge-7), [busy.org](https://busy.org/drawingchallenge/@dancingapple/drawing-challenge-7), [steemdb.com](https://steemdb.com/drawingchallenge/@dancingapple/drawing-challenge-7), [steemd.com](https://steemd.com/drawingchallenge/@dancingapple/drawing-challenge-7)
 
 ![微信图片_20171014194902.jpg](https://steemitimages.com/DQma9n9GL1PNW5cdAwsG2WPgUV4gpKGyAB4oYKZv3DSLEsP/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171014194902.jpg)
 

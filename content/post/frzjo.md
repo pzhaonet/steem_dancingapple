@@ -9,7 +9,7 @@ tags:
   - cn-green
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/frzjo.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/frzjo), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/frzjo), [busy.org](https://busy.org/cn/@dancingapple/frzjo), [steemdb.com](https://steemdb.com/cn/@dancingapple/frzjo), [steemd.com](https://steemd.com/cn/@dancingapple/frzjo)
 
 <html>
 <p>https://steemitimages.com/DQmY5JhEyhgiP7nChNZGgBhkc1YLcqz9SDHrRgrDmHF6EBQ/6F9D1694-FEDE-49B4-BB24-4C52DD848F6F.jpeg</p>

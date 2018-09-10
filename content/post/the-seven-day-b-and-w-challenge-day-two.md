@@ -10,7 +10,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/the-seven-day-b-and-w-challenge-day-two.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-two), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-two), [busy.org](https://busy.org/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-two), [steemdb.com](https://steemdb.com/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-two), [steemd.com](https://steemd.com/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-two)
 
 Thanks to @windowglass and @melaleuca for nominating me for the Black & White Photo Challenge!
 

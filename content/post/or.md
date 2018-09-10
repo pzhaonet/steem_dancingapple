@@ -11,7 +11,7 @@ tags:
   - love
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/or.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/or), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/or), [busy.org](https://busy.org/cn/@dancingapple/or), [steemdb.com](https://steemdb.com/cn/@dancingapple/or), [steemd.com](https://steemd.com/cn/@dancingapple/or)
 
 ![mmexport1513669064694.jpeg](https://steemitimages.com/DQmYpjtupD5aMirVZi91uQQ6FTxdbVc7KwGBbVfWE44t1TK/mmexport1513669064694.jpeg)
 

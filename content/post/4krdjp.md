@@ -11,7 +11,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/4krdjp.md)
+Links: [steemit.com](https://steemit.com/love/@dancingapple/4krdjp), [cnsteem.com](https://cnsteem.com/love/@dancingapple/4krdjp), [busy.org](https://busy.org/love/@dancingapple/4krdjp), [steemdb.com](https://steemdb.com/love/@dancingapple/4krdjp), [steemd.com](https://steemd.com/love/@dancingapple/4krdjp)
 
 01
 每场拍卖后，我都习惯于写分析总结。

@@ -10,7 +10,7 @@ tags:
   - photography
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/crape-myrtle.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/crape-myrtle), [cnsteem.com](https://cnsteem.com/art/@dancingapple/crape-myrtle), [busy.org](https://busy.org/art/@dancingapple/crape-myrtle), [steemdb.com](https://steemdb.com/art/@dancingapple/crape-myrtle), [steemd.com](https://steemd.com/art/@dancingapple/crape-myrtle)
 
 <html>
 <p>https://steemitimages.com/DQmT5LbXgHG9Md5d9jguMCQQGWuPvjmH9b54CNcRUuWcFbD/63C2B48E-87F4-429E-BDCB-FEF73D801332.jpeg</p>

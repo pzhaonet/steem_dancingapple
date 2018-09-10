@@ -10,7 +10,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/kcat2.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/kcat2), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/kcat2), [busy.org](https://busy.org/cn/@dancingapple/kcat2), [steemdb.com](https://steemdb.com/cn/@dancingapple/kcat2), [steemd.com](https://steemd.com/cn/@dancingapple/kcat2)
 
 <html>
 <p>https://steemitimages.com/DQmf9WWPBsPtZpdnUY4Qj1ZAZPHD3pd4FVf1DQtNTdE3VCM/4432EBD3-3400-41ED-843B-2FFD3579744B.jpeg</p>

@@ -11,7 +11,7 @@ tags:
   - cn-chat
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/2y7rqu.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/2y7rqu), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/2y7rqu), [busy.org](https://busy.org/cn/@dancingapple/2y7rqu), [steemdb.com](https://steemdb.com/cn/@dancingapple/2y7rqu), [steemd.com](https://steemd.com/cn/@dancingapple/2y7rqu)
 
 ![微信图片_20170829163744.jpg](https://steemitimages.com/DQmNZAaUXLLNNPZ5Xx1c6c321HQ9FWNwCCycBQ61fYRbQbD/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170829163744.jpg)
 

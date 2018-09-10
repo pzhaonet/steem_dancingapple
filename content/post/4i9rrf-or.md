@@ -12,7 +12,7 @@ tags:
   - busy
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/4i9rrf-or.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/4i9rrf-or), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/4i9rrf-or), [busy.org](https://busy.org/cn/@dancingapple/4i9rrf-or), [steemdb.com](https://steemdb.com/cn/@dancingapple/4i9rrf-or), [steemd.com](https://steemd.com/cn/@dancingapple/4i9rrf-or)
 
 说起"求"，昔人亦有云:
 一愿识尽世间好人

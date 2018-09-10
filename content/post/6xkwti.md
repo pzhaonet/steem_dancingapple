@@ -10,7 +10,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/6xkwti.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/6xkwti), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/6xkwti), [busy.org](https://busy.org/cn/@dancingapple/6xkwti), [steemdb.com](https://steemdb.com/cn/@dancingapple/6xkwti), [steemd.com](https://steemd.com/cn/@dancingapple/6xkwti)
 
 ![0989.jpg](https://steemitimages.com/DQmcG1ud4EJ1N4M3EQUL3P8p1KvR286MmLSABz8Tch5hwdT/0989.jpg)
 

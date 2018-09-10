@@ -11,7 +11,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3esybg.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/3esybg), [cnsteem.com](https://cnsteem.com/art/@dancingapple/3esybg), [busy.org](https://busy.org/art/@dancingapple/3esybg), [steemdb.com](https://steemdb.com/art/@dancingapple/3esybg), [steemd.com](https://steemd.com/art/@dancingapple/3esybg)
 
 人不应该是插在花瓶里供人观赏的静物
 而是蔓延在草原上随风起舞的韵律

@@ -10,7 +10,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3rknxv.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/3rknxv), [cnsteem.com](https://cnsteem.com/art/@dancingapple/3rknxv), [busy.org](https://busy.org/art/@dancingapple/3rknxv), [steemdb.com](https://steemdb.com/art/@dancingapple/3rknxv), [steemd.com](https://steemd.com/art/@dancingapple/3rknxv)
 
 不知不覺已經半夜三點鐘了，感覺每天的時間都不夠用。
 午休時間跑去跳舞，然後整個下午困成狗。

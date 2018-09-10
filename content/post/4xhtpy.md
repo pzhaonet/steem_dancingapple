@@ -11,7 +11,7 @@ tags:
   - funny
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/4xhtpy.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/4xhtpy), [cnsteem.com](https://cnsteem.com/art/@dancingapple/4xhtpy), [busy.org](https://busy.org/art/@dancingapple/4xhtpy), [steemdb.com](https://steemdb.com/art/@dancingapple/4xhtpy), [steemd.com](https://steemd.com/art/@dancingapple/4xhtpy)
 
 ![67.jpg](https://steemitimages.com/DQmQz2zr3MCg4BhVYXthW5nbyBXGo7FFZiMzkGbnxjdLbNP/67.jpg)
 

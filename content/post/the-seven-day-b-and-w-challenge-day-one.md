@@ -9,7 +9,7 @@ tags:
   - sevendaybnwchallenge
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/the-seven-day-b-and-w-challenge-day-one.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-one), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-one), [busy.org](https://busy.org/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-one), [steemdb.com](https://steemdb.com/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-one), [steemd.com](https://steemd.com/cn/@dancingapple/the-seven-day-b-and-w-challenge-day-one)
 
 Thanks to<U+00A0>@windowglass and<U+00A0>@melaleuca for nominating me for the Black & White Photo Challenge!
 

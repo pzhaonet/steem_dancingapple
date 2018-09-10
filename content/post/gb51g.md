@@ -10,7 +10,7 @@ tags:
   - blog
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/gb51g.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/gb51g), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/gb51g), [busy.org](https://busy.org/cn/@dancingapple/gb51g), [steemdb.com](https://steemdb.com/cn/@dancingapple/gb51g), [steemd.com](https://steemd.com/cn/@dancingapple/gb51g)
 
 呵
 我像只快乐的鱼儿

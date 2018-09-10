@@ -11,7 +11,7 @@ tags:
   - story
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3k2xhs.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/3k2xhs), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/3k2xhs), [busy.org](https://busy.org/cn/@dancingapple/3k2xhs), [steemdb.com](https://steemdb.com/cn/@dancingapple/3k2xhs), [steemd.com](https://steemd.com/cn/@dancingapple/3k2xhs)
 
 ——你在唯美的酒会中觥筹交错，我在干裂的土地上头顶艳阳。
 

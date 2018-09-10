@@ -10,7 +10,7 @@ tags:
   - music
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/5lxrvh.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/5lxrvh), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/5lxrvh), [busy.org](https://busy.org/cn/@dancingapple/5lxrvh), [steemdb.com](https://steemdb.com/cn/@dancingapple/5lxrvh), [steemd.com](https://steemd.com/cn/@dancingapple/5lxrvh)
 
 <html>
 <p>https://steemitimages.com/DQmcNQNkwHfDhG619AkCmTW5KtkuTxWhNMYtpAbdt5bTc2F/9952BF30-8F38-493B-A2EA-70494CD71B71.jpeg</p>

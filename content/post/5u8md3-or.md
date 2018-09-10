@@ -10,7 +10,7 @@ tags:
   - cn-drawing
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/5u8md3-or.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/5u8md3-or), [cnsteem.com](https://cnsteem.com/art/@dancingapple/5u8md3-or), [busy.org](https://busy.org/art/@dancingapple/5u8md3-or), [steemdb.com](https://steemdb.com/art/@dancingapple/5u8md3-or), [steemd.com](https://steemd.com/art/@dancingapple/5u8md3-or)
 
 <html>
 <p>https://steemitimages.com/DQmVKfc35wZQ4aJXvi8voN4oFzi54SY9fKEQrNQ9BKUdemJ/2DE391DF-FBD6-493B-99E1-36829BBEB80C.gif</p>

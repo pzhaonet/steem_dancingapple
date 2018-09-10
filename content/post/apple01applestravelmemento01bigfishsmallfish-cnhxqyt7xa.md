@@ -12,7 +12,7 @@ tags:
   - travel
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/apple01applestravelmemento01bigfishsmallfish-cnhxqyt7xa.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/apple01applestravelmemento01bigfishsmallfish-cnhxqyt7xa), [cnsteem.com](https://cnsteem.com/art/@dancingapple/apple01applestravelmemento01bigfishsmallfish-cnhxqyt7xa), [busy.org](https://busy.org/art/@dancingapple/apple01applestravelmemento01bigfishsmallfish-cnhxqyt7xa), [steemdb.com](https://steemdb.com/art/@dancingapple/apple01applestravelmemento01bigfishsmallfish-cnhxqyt7xa), [steemd.com](https://steemd.com/art/@dancingapple/apple01applestravelmemento01bigfishsmallfish-cnhxqyt7xa)
 
 【好重一条鱼】
 

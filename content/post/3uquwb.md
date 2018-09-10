@@ -10,7 +10,7 @@ tags:
   - life
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3uquwb.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/3uquwb), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/3uquwb), [busy.org](https://busy.org/cn/@dancingapple/3uquwb), [steemdb.com](https://steemdb.com/cn/@dancingapple/3uquwb), [steemd.com](https://steemd.com/cn/@dancingapple/3uquwb)
 
 昨天我以“烟云过眼录”的题目写了一篇文章，想表达一种时光荏苒草长莺飞往事如烟物是人非的无奈，╮（╯＿╰）╭又不好好说话了。
 

@@ -11,7 +11,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/4g2oel.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/4g2oel), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/4g2oel), [busy.org](https://busy.org/cn/@dancingapple/4g2oel), [steemdb.com](https://steemdb.com/cn/@dancingapple/4g2oel), [steemd.com](https://steemd.com/cn/@dancingapple/4g2oel)
 
 ![微信图片_20171027011959.jpg](https://steemitimages.com/DQmPvZPAT7BuGA3AL77sGj7zwyUdtsuNdHCLgrgAkmPzSUw/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171027011959.jpg)
 天上秋期近，人间月影清。

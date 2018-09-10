@@ -10,7 +10,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/or-smile-challenge.md)
+Links: [steemit.com](https://steemit.com/smilechallenge/@dancingapple/or-smile-challenge), [cnsteem.com](https://cnsteem.com/smilechallenge/@dancingapple/or-smile-challenge), [busy.org](https://busy.org/smilechallenge/@dancingapple/or-smile-challenge), [steemdb.com](https://steemdb.com/smilechallenge/@dancingapple/or-smile-challenge), [steemd.com](https://steemd.com/smilechallenge/@dancingapple/or-smile-challenge)
 
 ![pt2018_01_18_18_11_58.jpg](https://steemitimages.com/DQmQvmhajnYD1mHQKphU93DXgHkDNFrJdASfeGmDF1NXy7C/pt2018_01_18_18_11_58.jpg)
 

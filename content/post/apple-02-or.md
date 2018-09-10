@@ -12,7 +12,7 @@ tags:
   - cn-book
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/apple-02-or.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/apple-02-or), [cnsteem.com](https://cnsteem.com/art/@dancingapple/apple-02-or), [busy.org](https://busy.org/art/@dancingapple/apple-02-or), [steemdb.com](https://steemdb.com/art/@dancingapple/apple-02-or), [steemd.com](https://steemd.com/art/@dancingapple/apple-02-or)
 
 <html>
 <p>https://cdn.steemitimages.com/DQmeNXd9Dp6NT4sFJCUhA4ntqsMQaHQYrWkJ6HvSmcecWys/a16.jpeg</p>

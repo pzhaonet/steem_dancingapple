@@ -12,7 +12,7 @@ tags:
   - drawing
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/drawitbetter-contest-5-dragon.md)
+Links: [steemit.com](https://steemit.com/drawitbetter/@dancingapple/drawitbetter-contest-5-dragon), [cnsteem.com](https://cnsteem.com/drawitbetter/@dancingapple/drawitbetter-contest-5-dragon), [busy.org](https://busy.org/drawitbetter/@dancingapple/drawitbetter-contest-5-dragon), [steemdb.com](https://steemdb.com/drawitbetter/@dancingapple/drawitbetter-contest-5-dragon), [steemd.com](https://steemd.com/drawitbetter/@dancingapple/drawitbetter-contest-5-dragon)
 
 ![09.jpg](https://steemitimages.com/DQmQqCGvm5Aes9uHuFzyaFUgGj9NrfQ6FWAyRfFmdyHESBp/09.jpg)
 

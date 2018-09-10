@@ -12,7 +12,7 @@ tags:
   - cn-love
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/6dbzqe.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/6dbzqe), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/6dbzqe), [busy.org](https://busy.org/cn/@dancingapple/6dbzqe), [steemdb.com](https://steemdb.com/cn/@dancingapple/6dbzqe), [steemd.com](https://steemd.com/cn/@dancingapple/6dbzqe)
 
 ![9.jpg](https://steemitimages.com/DQmdzSoBxV1XKV28NS8V8B8NkqynXCeieBZiA7qL1q1RVTR/9.jpg)
 

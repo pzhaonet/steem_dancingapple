@@ -9,7 +9,7 @@ tags:
   - cn
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/the-seven-day-b-and-w-challenge-day-six.md)
+Links: [steemit.com](https://steemit.com/sevendaybnwchallenge/@dancingapple/the-seven-day-b-and-w-challenge-day-six), [cnsteem.com](https://cnsteem.com/sevendaybnwchallenge/@dancingapple/the-seven-day-b-and-w-challenge-day-six), [busy.org](https://busy.org/sevendaybnwchallenge/@dancingapple/the-seven-day-b-and-w-challenge-day-six), [steemdb.com](https://steemdb.com/sevendaybnwchallenge/@dancingapple/the-seven-day-b-and-w-challenge-day-six), [steemd.com](https://steemd.com/sevendaybnwchallenge/@dancingapple/the-seven-day-b-and-w-challenge-day-six)
 
 The photo for Day 6
 

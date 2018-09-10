@@ -11,7 +11,7 @@ tags:
   - funny
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/better-me.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/better-me), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/better-me), [busy.org](https://busy.org/cn/@dancingapple/better-me), [steemdb.com](https://steemdb.com/cn/@dancingapple/better-me), [steemd.com](https://steemd.com/cn/@dancingapple/better-me)
 
 黄金假期。
 先分享一下昨天陪家人逛的那个蛮有趣的地方。

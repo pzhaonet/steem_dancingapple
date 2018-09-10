@@ -9,7 +9,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/63pszy.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/63pszy), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/63pszy), [busy.org](https://busy.org/cn/@dancingapple/63pszy), [steemdb.com](https://steemdb.com/cn/@dancingapple/63pszy), [steemd.com](https://steemd.com/cn/@dancingapple/63pszy)
 
 [系统提示]水份100%，请捂好你的赞|(￣3￣)| 
 

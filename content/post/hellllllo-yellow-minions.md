@@ -10,7 +10,7 @@ tags:
   - funny
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/hellllllo-yellow-minions.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/hellllllo-yellow-minions), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/hellllllo-yellow-minions), [busy.org](https://busy.org/cn/@dancingapple/hellllllo-yellow-minions), [steemdb.com](https://steemdb.com/cn/@dancingapple/hellllllo-yellow-minions), [steemd.com](https://steemd.com/cn/@dancingapple/hellllllo-yellow-minions)
 
 ![20170923_152355.jpg](https://steemitimages.com/DQmPpxkJ96A7jKSR9q3WAthByDbMUEc1BUSqfN3Zg9sNRYi/20170923_152355.jpg)
 

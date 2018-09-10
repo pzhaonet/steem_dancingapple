@@ -9,7 +9,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3zsi5o.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/3zsi5o), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/3zsi5o), [busy.org](https://busy.org/cn/@dancingapple/3zsi5o), [steemdb.com](https://steemdb.com/cn/@dancingapple/3zsi5o), [steemd.com](https://steemd.com/cn/@dancingapple/3zsi5o)
 
 文档里有一篇未完成的文章，名字叫《少年与花园》。开了个头，写了蛮久，下面的内容改了又改，最终还是不知道怎么继续。
 今晚尝试把它写下去。

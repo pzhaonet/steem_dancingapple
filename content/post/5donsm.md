@@ -12,7 +12,7 @@ tags:
   - steem
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/5donsm.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/5donsm), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/5donsm), [busy.org](https://busy.org/cn/@dancingapple/5donsm), [steemdb.com](https://steemdb.com/cn/@dancingapple/5donsm), [steemd.com](https://steemd.com/cn/@dancingapple/5donsm)
 
 ![75A09C2D-18D3-4AFB-8D11-F9015FC99AE9.jpeg](https://steemitimages.com/DQmcWYpMWzhpDimY8qAtAFthqSMRUZAxuKTqtByz95TJGG8/75A09C2D-18D3-4AFB-8D11-F9015FC99AE9.jpeg)
 

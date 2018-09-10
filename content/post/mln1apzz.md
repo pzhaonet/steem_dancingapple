@@ -11,7 +11,7 @@ tags:
   - partiko
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/mln1apzz.md)
+Links: [steemit.com](https://steemit.com/music/@dancingapple/mln1apzz), [cnsteem.com](https://cnsteem.com/music/@dancingapple/mln1apzz), [busy.org](https://busy.org/music/@dancingapple/mln1apzz), [steemdb.com](https://steemdb.com/music/@dancingapple/mln1apzz), [steemd.com](https://steemd.com/music/@dancingapple/mln1apzz)
 
 <html>
 <p>https://cdn.steemitimages.com/DQmXhHKCyjpddonNHuyk8EUBBomBtev9XLZ2KbhDj4DEHNH/09BD28BE-5A51-48A4-A4D1-A866EE6EA78C.jpeg</p>

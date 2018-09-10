@@ -9,7 +9,7 @@ tags:
   - sevendaybnwchallenge
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/cuzhv.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/cuzhv), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/cuzhv), [busy.org](https://busy.org/cn/@dancingapple/cuzhv), [steemdb.com](https://steemdb.com/cn/@dancingapple/cuzhv), [steemd.com](https://steemd.com/cn/@dancingapple/cuzhv)
 
 自由成长如何
 大战方收战果

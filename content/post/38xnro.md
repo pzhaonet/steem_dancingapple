@@ -12,7 +12,7 @@ tags:
   - food
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/38xnro.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/38xnro), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/38xnro), [busy.org](https://busy.org/cn/@dancingapple/38xnro), [steemdb.com](https://steemdb.com/cn/@dancingapple/38xnro), [steemd.com](https://steemd.com/cn/@dancingapple/38xnro)
 
 <html>
 <p>https://steemitimages.com/DQmdUDPPa19QbciBY9ruGXkG2w2e1xdVkiqC46gpB6hgEWC/FB6A5567-A2DD-460A-924C-0A776AA5C010.jpeg</p>

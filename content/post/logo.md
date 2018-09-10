@@ -12,7 +12,7 @@ tags:
   - art
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/logo.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/logo), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/logo), [busy.org](https://busy.org/cn/@dancingapple/logo), [steemdb.com](https://steemdb.com/cn/@dancingapple/logo), [steemd.com](https://steemd.com/cn/@dancingapple/logo)
 
 从前，有一个浩瀚的宇宙——
 

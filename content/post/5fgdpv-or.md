@@ -10,7 +10,7 @@ tags:
   - art
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/5fgdpv-or.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/5fgdpv-or), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/5fgdpv-or), [busy.org](https://busy.org/cn/@dancingapple/5fgdpv-or), [steemdb.com](https://steemdb.com/cn/@dancingapple/5fgdpv-or), [steemd.com](https://steemd.com/cn/@dancingapple/5fgdpv-or)
 
 https://cdn.steemitimages.com/DQmbB7pzYyAh8tLSg1bjPPFesg4vzzsDPUa3mwHicg8tjE4/FBC95AC8-802C-4D65-B0DF-F3A0D3BD61B0.gif
 

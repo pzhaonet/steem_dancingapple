@@ -10,7 +10,7 @@ tags:
   - blog
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/what-s-in-my-bag.md)
+Links: [steemit.com](https://steemit.com/whatsinmybag/@dancingapple/what-s-in-my-bag), [cnsteem.com](https://cnsteem.com/whatsinmybag/@dancingapple/what-s-in-my-bag), [busy.org](https://busy.org/whatsinmybag/@dancingapple/what-s-in-my-bag), [steemdb.com](https://steemdb.com/whatsinmybag/@dancingapple/what-s-in-my-bag), [steemd.com](https://steemd.com/whatsinmybag/@dancingapple/what-s-in-my-bag)
 
 ![mmexport1514544163618.jpg](https://steemitimages.com/DQmbcwPP6vWSEzJXra29Tipzjh61CPHVEDc5qdg6NinySfK/mmexport1514544163618.jpg)
 

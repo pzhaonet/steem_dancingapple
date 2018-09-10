@@ -10,7 +10,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/ugly-duckling-or-cute-baby-bb-or-apple.md)
+Links: [steemit.com](https://steemit.com/uglyduckling/@dancingapple/ugly-duckling-or-cute-baby-bb-or-apple), [cnsteem.com](https://cnsteem.com/uglyduckling/@dancingapple/ugly-duckling-or-cute-baby-bb-or-apple), [busy.org](https://busy.org/uglyduckling/@dancingapple/ugly-duckling-or-cute-baby-bb-or-apple), [steemdb.com](https://steemdb.com/uglyduckling/@dancingapple/ugly-duckling-or-cute-baby-bb-or-apple), [steemd.com](https://steemd.com/uglyduckling/@dancingapple/ugly-duckling-or-cute-baby-bb-or-apple)
 
 谢谢可爱的  @veronicazhu  妹子翻我牌子参加 丑小鸭还是可爱BB的有趣游戏。
 Thank @veronicazhu for inviting me play the game “Ugly duckling or Cute baby”.

@@ -9,7 +9,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/2inhkq.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/2inhkq), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/2inhkq), [busy.org](https://busy.org/cn/@dancingapple/2inhkq), [steemdb.com](https://steemdb.com/cn/@dancingapple/2inhkq), [steemd.com](https://steemd.com/cn/@dancingapple/2inhkq)
 
 她并没有做错什么，但自从随父母迁徙到这个小山村后，就莫名其妙变成了“婊子”。
 清晨打开门，首先映入眼帘的是青石地板上用粉笔写的“XXX是鸡婆”。

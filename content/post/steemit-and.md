@@ -10,7 +10,7 @@ tags:
   - steemit
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/steemit-and.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/steemit-and), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/steemit-and), [busy.org](https://busy.org/cn/@dancingapple/steemit-and), [steemdb.com](https://steemdb.com/cn/@dancingapple/steemit-and), [steemd.com](https://steemd.com/cn/@dancingapple/steemit-and)
 
 <html>
 <p>https://cdn.steemitimages.com/DQmXhEoY6NzLjHhNvSXGY5fHmRbVovJFgoVYQcd5ACKGSF9/B268BE20-024B-4788-BD9A-F478430F6936.jpeg</p>

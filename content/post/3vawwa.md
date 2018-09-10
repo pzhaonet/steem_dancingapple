@@ -9,7 +9,7 @@ tags:
   - blog
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3vawwa.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/3vawwa), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/3vawwa), [busy.org](https://busy.org/cn/@dancingapple/3vawwa), [steemdb.com](https://steemdb.com/cn/@dancingapple/3vawwa), [steemd.com](https://steemd.com/cn/@dancingapple/3vawwa)
 
 分享近日看到的一幅有趣的画——
 

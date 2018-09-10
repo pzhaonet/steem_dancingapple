@@ -10,7 +10,7 @@ tags:
   - story
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/or-9.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/or-9), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/or-9), [busy.org](https://busy.org/cn/@dancingapple/or-9), [steemdb.com](https://steemdb.com/cn/@dancingapple/or-9), [steemd.com](https://steemd.com/cn/@dancingapple/or-9)
 
 ![mmexport1505821936384.jpg](https://steemitimages.com/DQmXSd6dGnCoed4MkrktECTJtaFT3ce8fbaaS4HZJsUzdBq/mmexport1505821936384.jpg)
 

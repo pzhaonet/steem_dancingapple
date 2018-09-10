@@ -11,7 +11,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/da-this-is-a-post-about-kung-fu.md)
+Links: [steemit.com](https://steemit.com/funny/@dancingapple/da-this-is-a-post-about-kung-fu), [cnsteem.com](https://cnsteem.com/funny/@dancingapple/da-this-is-a-post-about-kung-fu), [busy.org](https://busy.org/funny/@dancingapple/da-this-is-a-post-about-kung-fu), [steemdb.com](https://steemdb.com/funny/@dancingapple/da-this-is-a-post-about-kung-fu), [steemd.com](https://steemd.com/funny/@dancingapple/da-this-is-a-post-about-kung-fu)
 
 ![00.jpg](https://steemitimages.com/DQmc8b7ptjRecVtVCxBb2SujjkAY3NNCJnnXPcLcfj9QD8B/00.jpg)
 

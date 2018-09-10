@@ -11,7 +11,7 @@ tags:
   - blog
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/2jyoh3.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/2jyoh3), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/2jyoh3), [busy.org](https://busy.org/cn/@dancingapple/2jyoh3), [steemdb.com](https://steemdb.com/cn/@dancingapple/2jyoh3), [steemd.com](https://steemd.com/cn/@dancingapple/2jyoh3)
 
 <html>
 <p>由于年代久远，找不到跟傻事相关的图片，贴一张大概是那个时期的凑凑数吧。</p>

@@ -9,7 +9,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/5trsjy.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/5trsjy), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/5trsjy), [busy.org](https://busy.org/cn/@dancingapple/5trsjy), [steemdb.com](https://steemdb.com/cn/@dancingapple/5trsjy), [steemd.com](https://steemd.com/cn/@dancingapple/5trsjy)
 
 感谢“谷哥点名”出了这么好的一个题目，想了一整晚，当认真思考这个问题的时候，我竟觉得自己有点陌生。
 也许每天都是在想外界事物吧，忽略了who I  am。

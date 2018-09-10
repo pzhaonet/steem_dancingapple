@@ -12,7 +12,7 @@ tags:
   - busy
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3hkw28-or.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/3hkw28-or), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/3hkw28-or), [busy.org](https://busy.org/cn/@dancingapple/3hkw28-or), [steemdb.com](https://steemdb.com/cn/@dancingapple/3hkw28-or), [steemd.com](https://steemd.com/cn/@dancingapple/3hkw28-or)
 
 ![20180105_161142_mh1515149809540.jpg](https://steemitimages.com/DQmWmVjnd1SLvW97tyoDKCeHgfUXQF7bjY8dqTidCsnn1qw/20180105_161142_mh1515149809540.jpg)
 

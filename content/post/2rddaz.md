@@ -11,7 +11,7 @@ tags:
   - funny
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/2rddaz.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/2rddaz), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/2rddaz), [busy.org](https://busy.org/cn/@dancingapple/2rddaz), [steemdb.com](https://steemdb.com/cn/@dancingapple/2rddaz), [steemd.com](https://steemd.com/cn/@dancingapple/2rddaz)
 
 中秋快乐呀！(●'<U+25E1>'●)<U+FF89><U+2764>
 

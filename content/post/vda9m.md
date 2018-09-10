@@ -11,7 +11,7 @@ tags:
   - drawing
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/vda9m.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/vda9m), [cnsteem.com](https://cnsteem.com/art/@dancingapple/vda9m), [busy.org](https://busy.org/art/@dancingapple/vda9m), [steemdb.com](https://steemdb.com/art/@dancingapple/vda9m), [steemd.com](https://steemd.com/art/@dancingapple/vda9m)
 
 今天听到一句歌词，觉得挺甜的，分享一下——
 

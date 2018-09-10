@@ -10,7 +10,7 @@ tags:
   - food
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/404-not-found.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/404-not-found), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/404-not-found), [busy.org](https://busy.org/cn/@dancingapple/404-not-found), [steemdb.com](https://steemdb.com/cn/@dancingapple/404-not-found), [steemd.com](https://steemd.com/cn/@dancingapple/404-not-found)
 
 <html>
 <p>https://steemitimages.com/DQmQEWgf3XAL166T7WtjCq1DKMWtxPhJTbZtDkTP1yfzkEE/9BC0AA29-18FA-4405-8DAB-84895D0D90E6.jpeg</p>

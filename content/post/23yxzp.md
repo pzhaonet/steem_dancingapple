@@ -10,7 +10,7 @@ tags:
   - nature
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/23yxzp.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/23yxzp), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/23yxzp), [busy.org](https://busy.org/cn/@dancingapple/23yxzp), [steemdb.com](https://steemdb.com/cn/@dancingapple/23yxzp), [steemd.com](https://steemd.com/cn/@dancingapple/23yxzp)
 
 <html>
 <p>写在卷首，是一些多情且天真却发自内心的话，如果你想看活动规则，可以直接下拉至<strong>第07部分</strong>。</p>

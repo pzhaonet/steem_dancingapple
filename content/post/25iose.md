@@ -10,7 +10,7 @@ tags:
   - funny
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/25iose.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/25iose), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/25iose), [busy.org](https://busy.org/cn/@dancingapple/25iose), [steemdb.com](https://steemdb.com/cn/@dancingapple/25iose), [steemd.com](https://steemd.com/cn/@dancingapple/25iose)
 
 ![20171017235136.jpg](https://steemitimages.com/DQmWzyzW9sEmmCc6YEyhj9RnbaoknykQqr8S7D6bBgcdLxT/20171017235136.jpg)
 

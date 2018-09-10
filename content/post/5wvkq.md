@@ -10,7 +10,7 @@ tags:
   - funny
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/5wvkq.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/5wvkq), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/5wvkq), [busy.org](https://busy.org/cn/@dancingapple/5wvkq), [steemdb.com](https://steemdb.com/cn/@dancingapple/5wvkq), [steemd.com](https://steemd.com/cn/@dancingapple/5wvkq)
 
 终于周末，阳光明媚秋高气爽，但今天没有出去玩。
 

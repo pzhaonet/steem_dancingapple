@@ -10,7 +10,7 @@ tags:
   - life
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/22hhes.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/22hhes), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/22hhes), [busy.org](https://busy.org/cn/@dancingapple/22hhes), [steemdb.com](https://steemdb.com/cn/@dancingapple/22hhes), [steemd.com](https://steemd.com/cn/@dancingapple/22hhes)
 
 昨日在地铁上遇到一个奇怪大妈——头戴红花，胡言乱语，在车门关上以后用力拍打喊着：“放我出去！放我出去！”
 过了不久她却又安静下来低头看手机——一脸平和，一脸神秘，迷之微笑。

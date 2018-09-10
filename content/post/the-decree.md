@@ -11,7 +11,7 @@ tags:
   - culturevulture
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/the-decree.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/the-decree), [cnsteem.com](https://cnsteem.com/art/@dancingapple/the-decree), [busy.org](https://busy.org/art/@dancingapple/the-decree), [steemdb.com](https://steemdb.com/art/@dancingapple/the-decree), [steemd.com](https://steemd.com/art/@dancingapple/the-decree)
 
 ![微信图片_20171102012424.jpg](https://steemitimages.com/DQmXJr4DKs6LZF5m6UP1g1WZ96UrVmXCa3FLgDAgser5Ujw/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20171102012424.jpg)
 

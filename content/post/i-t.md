@@ -10,7 +10,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/i-t.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/i-t), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/i-t), [busy.org](https://busy.org/cn/@dancingapple/i-t), [steemdb.com](https://steemdb.com/cn/@dancingapple/i-t), [steemd.com](https://steemd.com/cn/@dancingapple/i-t)
 
 Hellllo~
 又是我，@小dancingapple(<U+10E6><U+02D8><U+2323><U+02D8><U+10E6>)

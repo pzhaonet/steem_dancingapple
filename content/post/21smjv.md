@@ -12,7 +12,7 @@ tags:
   - poetry
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/21smjv.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/21smjv), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/21smjv), [busy.org](https://busy.org/cn/@dancingapple/21smjv), [steemdb.com](https://steemdb.com/cn/@dancingapple/21smjv), [steemd.com](https://steemd.com/cn/@dancingapple/21smjv)
 
 ![542181871.jpeg](https://steemitimages.com/DQmeiet3HiGjytD2gX3gxv2Em9pFKF6sDfm5kzhwrPJyof1/542181871.jpeg)
 

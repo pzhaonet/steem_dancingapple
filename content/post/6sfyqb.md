@@ -8,7 +8,7 @@ tags:
   - cn
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/6sfyqb.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/6sfyqb), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/6sfyqb), [busy.org](https://busy.org/cn/@dancingapple/6sfyqb), [steemdb.com](https://steemdb.com/cn/@dancingapple/6sfyqb), [steemd.com](https://steemd.com/cn/@dancingapple/6sfyqb)
 
 ![mmexport1511490025414_mh1511490477113.jpg](https://steemitimages.com/DQmPQUox19vynXsFFBciiZNkvf1KnBErP4dmXq3vtpxFig2/mmexport1511490025414_mh1511490477113.jpg)
 

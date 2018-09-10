@@ -9,7 +9,7 @@ tags:
   - cn
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/7stvms.md)
+Links: [steemit.com](https://steemit.com/cn-reader/@dancingapple/7stvms), [cnsteem.com](https://cnsteem.com/cn-reader/@dancingapple/7stvms), [busy.org](https://busy.org/cn-reader/@dancingapple/7stvms), [steemdb.com](https://steemdb.com/cn-reader/@dancingapple/7stvms), [steemd.com](https://steemd.com/cn-reader/@dancingapple/7stvms)
 
 不要为未知的将来焦虑
 不要被消逝的往事羁绊

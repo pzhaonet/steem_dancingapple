@@ -11,7 +11,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/2cu8ht.md)
+Links: [steemit.com](https://steemit.com/cn/@dancingapple/2cu8ht), [cnsteem.com](https://cnsteem.com/cn/@dancingapple/2cu8ht), [busy.org](https://busy.org/cn/@dancingapple/2cu8ht), [steemdb.com](https://steemdb.com/cn/@dancingapple/2cu8ht), [steemd.com](https://steemd.com/cn/@dancingapple/2cu8ht)
 
 若有刺若无刺若多刺那玫瑰
 以初识痛痒以来第一滴血铸成

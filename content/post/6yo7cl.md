@@ -11,7 +11,7 @@ tags:
   - cn-reader
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/6yo7cl.md)
+Links: [steemit.com](https://steemit.com/skincare/@dancingapple/6yo7cl), [cnsteem.com](https://cnsteem.com/skincare/@dancingapple/6yo7cl), [busy.org](https://busy.org/skincare/@dancingapple/6yo7cl), [steemdb.com](https://steemdb.com/skincare/@dancingapple/6yo7cl), [steemd.com](https://steemd.com/skincare/@dancingapple/6yo7cl)
 
 大美女 @acactus1013 & @stacee 都分享了自己的护肤心得，我也加入爱美行列，分享下自己的护肤经吧。
  

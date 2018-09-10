@@ -10,7 +10,7 @@ tags:
   - photography
 ---
 
-原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/lavqf.md)
+Links: [steemit.com](https://steemit.com/art/@dancingapple/lavqf), [cnsteem.com](https://cnsteem.com/art/@dancingapple/lavqf), [busy.org](https://busy.org/art/@dancingapple/lavqf), [steemdb.com](https://steemdb.com/art/@dancingapple/lavqf), [steemd.com](https://steemd.com/art/@dancingapple/lavqf)
 
 <html>
 <p>手机里有4700多张照片，虽然都是些零碎的镜头，但还是蛮有趣的，挑一些分享<U+0001F60B></p>
