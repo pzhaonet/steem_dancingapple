@@ -1,0 +1,57 @@
+---
+title: "坂田银时 -  齐白石杯"
+author: dancingapple
+date: "2018-04-17 09:12:21"
+slug: 5u8md3-or
+categories: [art]
+tags: 
+  - art
+  - cn
+  - cn-drawing
+---
+
+原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/5u8md3-or.md)
+
+<html>
+<p>https://steemitimages.com/DQmVKfc35wZQ4aJXvi8voN4oFzi54SY9fKEQrNQ9BKUdemJ/2DE391DF-FBD6-493B-99E1-36829BBEB80C.gif</p>
+<p>坂田银时，是《银魂》中的男主角，又叫阿银、银桑，是一个又丧又热血，帅不过三秒的美男子。</p>
+<p>当然，漫画中其他角色也帅得不要不要的，可为什么曾年幼无知的我独爱阿银一个呢？现在认真想了想，不是没有理由的。</p>
+<p>首先，颜值高，身材好；一头银色的卷发帅到你心肝颤抖（据说他的头发很软而且还有草莓的味道）。虽然他常常摆出一副厌世脸死鱼眼，但其实他红色的眼眸很美艳。</p>
+<p>其二，实力强大；在攘夷战争的时候，阿银是令敌人闻风丧胆的白夜叉，有着超一流的剑术，手起刀（棍）落，能粉碎猛兽大炮子弹。反正一句话说，他就是个传说中战神。</p>
+<p>一般而言，这种颜值高战斗力强大的男神应该是非常高冷的，就算在爱情里也是霸道总裁的款，但阿银不是啊！他接起地气来也是能把你猥琐到的！</p>
+<p>https://steemitimages.com/DQmehuZKsXXG6Kh5J5bz93w6nHYSZcSrJ2JFemtPLLLdtne/1FA9C932-F000-4256-BD3C-CD945ABD540F.jpeg</p>
+<p>他经营着一家万事屋，虽然没啥节操只要能赚钱什么事都能干，但还是经常囊中羞涩交不起房租……囧</p>
+<p>平日总是一副吊儿郎当的样子，翻着死鱼眼，用死气沉沉的语气跟你满嘴跑火车……囧</p>
+<p>有6条草莓内裤，高血糖却又超爱吃甜食，而且还很怕鬼……囧</p>
+<p>https://steemitimages.com/DQmbPb4Mv45wtUkZVEuJbXWHz6YttqbvtLN2QqkUSXjxVXJ/7BAEF3D7-CC22-4C41-B9C9-1976ED68B072.gif</p>
+<p>但他从不掩饰自己的慵懒好吃好色爱财，知道自己几斤几两，从来都只做自己有把握的事；</p>
+<p>他也不会花言巧语给你开很多空头支票，答应过甚至是没答应过但他力所能及的事情他都会做到，几乎不会让你失望；</p>
+<p>他还是个耳根子很软的男人，表面一副你别来烦我的表情，但最后都会答应别人的请求；心也软，非常好哄，请他喝草莓牛奶就行了~</p>
+<p>他有一句超暖心的话：“被女人的眼泪淋湿？我可不想啊。”</p>
+<p>他的人生信条是：只要有你想要保护的东西，那就拔剑好了。</p>
+<p>他会像个当妈的人一样操心身边的朋友，而且每天晚上还会帮定春洗澡（虽然是被迫的）。</p>
+<p>有时候，这个暖心可爱别扭又傲娇的男人，会自己一个人站在夕阳底下，孤寂得让人心疼；受伤的时候也一个人撑着，绝不告诉别人。</p>
+<p>天下太平的时候，他四处奔波不辞辛苦赚钱养家；</p>
+<p>当要战斗守护家园的时候，他就是那个拼了命也会保护你的人，虽然在出发前他会叨叨絮絮说什么啊我好怕痛好怕死哦……有这么多好吃的，我想要活着啊555……</p>
+<p>然而上了战场，他还是那个赤红双眼，鲜血染红白衣的男神。</p>
+<p>这样的男人，很难不爱啊……</p>
+<p>如果可以跨次元恋爱，我一定要去万事屋把阿银拐回来。</p>
+<p><br></p>
+<p>下面<U+0001F447>是拐回来的过程<U+0001F60F><U+0001F60F><U+0001F60F></p>
+<p>拐带材料：</p>
+<p>毛笔、墨、熟宣、国画颜料</p>
+<p>https://steemitimages.com/DQmb8yw6Tdrzpi1zNGfvruJT6nmaRS6pNH7gHjBgiqa5o6k/8C958978-7B13-44ED-89D8-E8C2C485CA32.jpeg</p>
+<p>https://steemitimages.com/DQmd3o9q5K4oMC2QS5XUjX82wNXRzyTquygk9BCJ6ctnSHA/5F5F6F71-5A76-40A2-A465-38B610B016B9.jpeg</p>
+<p>https://steemitimages.com/DQmY5PfHguUsasLxrdHFTSYsiHrcAkKK9aJCjbF9VeXW5A3/B1C18617-5984-4C6C-81C8-2A299A7A00C8.jpeg</p>
+<p>https://steemitimages.com/DQmc1ADbvHSqPTbJZkPoi5PBQL5uWvpJNTcLRk68trb4ick/35B5D704-D697-4E81-A9A5-873EECE9CDC8.jpeg</p>
+<p>https://steemitimages.com/DQmfR91BWKJAGm5qzViYaBZwaTL4uXRkMLU7Y31y1eB1hgM/DC0B2AD4-4AE9-44FF-9F98-68331F1C801C.jpeg</p>
+<p>https://steemitimages.com/DQmaji1qUUckn62pG75qkJkFeL5bzVyL7L5thQPuqqbc42H/6BF6DBD7-0193-4A0E-B697-3C2ADC07570C.jpeg</p>
+<p>https://steemitimages.com/DQmT5DWEdZLQVnyWE4umZbbqmw8CusN2cGzs7fyZ9qeH5xx/1FCEE6A0-217D-4912-89F3-17ECDE579F11.jpeg</p>
+<p>https://steemitimages.com/DQmb7vG7CZJgz471PGVBSEXPribps81eB4ke7e5vp5p2ojf/6C730B9C-598B-46B0-8333-3A553F8427D6.jpeg</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+</html>

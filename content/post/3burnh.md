@@ -1,0 +1,64 @@
+---
+title: "观画笔记一"
+author: dancingapple
+date: "2018-04-02 13:46:45"
+slug: 3burnh
+categories: [cn]
+tags: 
+  - cn
+  - art
+---
+
+原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3burnh.md)
+
+<html>
+<p>https://steemitimages.com/DQmZuyCc2xQ5j4F1MkJQxf6tnKZkobPRDwgW5XkRN2UfCqw/C1909AB7-FE15-4F4B-80B0-C57F6AD803AB.jpeg</p>
+<p><br></p>
+<p>如果你看不懂巴勃罗·毕加索（Pablo Picasso）的画，可千万别说出来！因为他一定会狠狠怂你：</p>
+<blockquote>“什么意思？你们什么时候才能理解绘画的语言？难道你们就理解薯片的语言吗？”</blockquote>
+<p>也有可能是，他只用不屑的语气跟你说：</p>
+<blockquote>“噢，看不懂我的画，你可真倒霉。”</blockquote>
+<p><br></p>
+<p>在世人眼中，毕加索大概就是一名骄傲自大，自我沉溺的天才。</p>
+<p>他是艺术国度里的一位国王，继承传统，君临天下，而后再否认了历史、撕破了传统的美以及拔除了酷肖性。</p>
+<blockquote>歌功颂德？没有的。</blockquote>
+<blockquote>顺从温柔的古典美？剥夺。</blockquote>
+<blockquote>二次元的复制粘贴？直走左转照相馆谢谢。</blockquote>
+<p><br></p>
+<p>我们时常在想，是什么造就了大师？</p>
+<p>用老祖宗的言语，就是“天时、地利、人和”。</p>
+<p>用我浅薄的知识分析，有两大因素影响了毕加索的艺术生涯，又或者是，这位天才从这两件事物中，汲取了艺术的养分。</p>
+<p>那就是——女人与战争。</p>
+<p><br></p>
+<p>今天先聊聊他那乱花迷人眼的爱情故事。</p>
+<p><br></p>
+<p>据说，这个出生在10月25日的天蝎座男人，他神秘又热烈，高傲又多情，不羁又性感，文艺又狂暴，温柔又贪婪……（关键是，颜值还很高）</p>
+<p>如此得天独厚，艺术和爱情几乎贯穿了他的一生。</p>
+<p><br></p>
+<p>据统计，毕加索的作品总计近 37000 件。</p>
+<p>包括：油画1885 幅，素描7089 幅，版画20000 幅，平版画 6121幅。</p>
+<p>作品数得过来，却没有人能统计得出他究竟有几个情人（你究竟有几个好妹妹……）。</p>
+<p><br></p>
+<p>女人是毕加索的灵感缪斯，19岁开始，这位来自西班牙的小伙子就已经在各种妓院中流连了。</p>
+<p>&nbsp;女人们都如飞蛾般围绕在他身边，她们渴望沾染上这位天才男人身上的艺术气息，而毕加索也善于以给女人画像的方式来诱惑她们。</p>
+<p>这些佳丽们几乎都是以他的画像来肯定自己，如果哪天他笔下不再有自己了，也就说明自己失宠了。</p>
+<p>天才毕加索的身后，是低头沉默跟着的一长串女人。她们用自己的青春、美丽、快乐和痛苦铺就了一条艺术之路，让他无情碾压而过。</p>
+<p>&nbsp;</p>
+<p>1927年，46岁的毕加索在火车站邂逅了年仅17岁的玛丽·德蕾莎·沃尔持（Marire-Thérèse）。尽管当时他已经有个妻子叫奥莉嘉－科克洛瓦。</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmeCnPGefsQNKoDmjb96UCxeJGtivk4MSDperrEEDdGMYr/3D107015-AFDE-4BBB-A31C-B52737504377.jpeg</p>
+<p><br></p>
+<p>回首1917年，36岁的毕加索前往意大利为俄罗斯芭蕾舞团作舞台设计（才子遇佳人这板上钉钉子的事当然如期上映），他在那邂逅了芭蕾舞者奥莉嘉－科克洛瓦，第二年，他们步入婚姻，这位来自苏联的美丽女人成了他生命中的第一任妻子。</p>
+<p>他们有一个儿子叫保罗，彼时幸福的婚姻家庭生活让毕加索觉得自己是个幸福的男人，所以那个时期，他避开了达达主义（在之前的文章有介绍过）的纠缠，独立发展他的新古典主义。</p>
+<p>&nbsp;</p>
+<p>后来这段婚姻因为玛丽·德蕾莎·沃尔持的介入而变得狗血——小三怀孕了。</p>
+<p><br></p>
+<p>嗯，今天就写到这里，未完，可能续，也可能不续。</p>
+<p>附上一幅作品——</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmd7fvTTKh6Aq4kFhPmRaCL7EpWKSzM7cN2v2tnBakMcAP/5A9563B6-D9F4-4238-AF76-CB1EC499D557.jpeg</p>
+<p><br></p>
+<p><br></p>
+<p>摄于香港苏富比</p>
+<p><br></p>
+</html>

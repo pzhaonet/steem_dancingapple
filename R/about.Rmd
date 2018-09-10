@@ -1,0 +1,13 @@
+---
+title: 关于本站 About
+author: `r author`
+---
+
+这是 @`r author` 在 steemit.com 发布帖子的镜像网站。下面是 @`r author` 在 steem 上的基本资料。更新时间：`r Sys.time()`。
+
+This is a mirror site of @`r author`’s posts on steemit.com. The following is the basic information about @`r author`. Updated:`r Sys.time()`.
+
+```{r, echo=FALSE}
+info <- gid(id = author, method = "appbase_api")
+knitr::kable(info)
+```

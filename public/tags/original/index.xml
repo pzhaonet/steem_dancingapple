@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Original on STEEM@dancingapple</title>
+    <link>/tags/original/</link>
+    <description>Recent content in Original on STEEM@dancingapple</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 11:24:54 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/original/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>这是一幅不老实的画</title>
+      <link>/post/dxueb/</link>
+      <pubDate>Fri, 01 Sep 2017 11:24:54 +0000</pubDate>
+      
+      <guid>/post/dxueb/</guid>
+      <description>原文链接: steemit, cnsteem, busy, chainbb, steemdb, steemd, busy, markdown
+呵呵。
+原图……
+预祝中秋快乐。</description>
+    </item>
+    
+  </channel>
+</rss>

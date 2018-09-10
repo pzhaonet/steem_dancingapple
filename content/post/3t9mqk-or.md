@@ -1,0 +1,69 @@
+---
+title: "站台 - 月旦评"
+author: dancingapple
+date: "2018-03-27 14:57:09"
+slug: 3t9mqk-or
+categories: [cn]
+tags: 
+  - cn
+  - life
+  - cn-reader
+---
+
+原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/3t9mqk-or.md)
+
+<html>
+<p>https://steemitimages.com/DQmXWkYWmuVy4QeXqjE2rqQrRA2szPtaZs2n2hzsfKR9u36/29DC6C8C-F80F-4626-9DA7-F4F64B0133DC.jpeg</p>
+<p>01</p>
+<p>大概在这里上班的人，清晨都是一派意气风发，傍晚都是一副若有所失。</p>
+<p>职场是个百慕大。青春、活力与憧憬在这里总会莫名失踪，无从寻找，下落不明。</p>
+<p>这种牺牲，是隐忍的；</p>
+<p>这种损耗，是哀默的。</p>
+<p>从青丝到白发，沿途都是小米加步枪，长期割据着，僵持着，牵制着。</p>
+<p>没有轰然爆发的壮烈，没有信仰，没有英雄。</p>
+<p><br></p>
+<p>02</p>
+<p>尽管心中念想在漫无边际环游，但和其他人一样，我也是个面无表情，一脸倦容的路人乙。</p>
+<p>没有任何言语交流，甚至目光的触碰都尽量避免。</p>
+<p>每个人都按照规则沉默运行着，排队，等车。</p>
+<p>傍晚时分，水泥森林里没有日落。</p>
+<p>夜幕渐染，黑夜还没降临，霓虹灯就已尽责上岗。</p>
+<p>这里繁华、喧嚣，却仍然害怕黑暗。</p>
+<p>灰色笼罩下，每副面容都是一个模样，唯独她和他。</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmQF6gRFUXAhqqYv612j2MxC5Td8JBRzg3xhVRMNvUMghU/A38D37F5-B5B3-40B4-954D-A161846198A9.jpeg</p>
+<p><br></p>
+<p>03</p>
+<p>第一次见到她时，面容憔悴的她挺着大大的肚子，跟所有人一样，等车，上车。</p>
+<p>没有位置，她站在过道。一个乘客示意让座，她婉拒了。</p>
+<p>就这样，在拥挤的车厢里，她全程站了四十多分钟。</p>
+<p>第二次见到她，距离第一次见面大概隔了三个星期。</p>
+<p>彼时她已经卸下了大肚子。</p>
+<p>我很诧异，看样子她的宝宝肯定是出生了，但是为什么她不用坐月子？不用休养身子？</p>
+<p>无解……</p>
+<p>第三次见到她，是在今晚，她依旧那么瘦弱。</p>
+<p>憔悴的，没有表情的脸，在绚丽的灯光下，显得那么无力、苍白。</p>
+<p>像浩瀚深海中的一头孤鲸。</p>
+<p>为什么是鲸？</p>
+<p>因为我相信，她瘦削的身板所撑起的，是一个家，平凡如她，也是伟大坚韧的妈妈。</p>
+<p><br></p>
+<p>04</p>
+<p>从未害怕过衰老，直到今晚看到他。</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmVWg4mCFrQEom5fhcBkQfZRCR3q5TPR93eHyJQfy7ycmr/B22BE734-1C4A-4B67-A770-B247E31D951D.jpeg</p>
+<p><br></p>
+<p>如何界定为“老去”？</p>
+<p>并非斑白的头发，亦非深刻的皱纹……</p>
+<p>而是，当你出现在公众场合时，别人对你发自内心的怜悯……</p>
+<p>多少年以后，我也会两鬓斑白、步履蹒跚。</p>
+<p>而比我年轻了几十年的人，那些鲜活的心灵，同样也会为我掀起悲悯。</p>
+<p><br></p>
+<p>多少年以后，我也会感恩。</p>
+<p>感恩这负重，却仍前行的岁月。</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+</html>

@@ -1,0 +1,37 @@
+baseurl = ""
+languageCode = "en-us"
+title = "STEEM@dancingapple"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "<U+21A9>"
+
+[permalinks]
+    post = "/post/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "A website built through steemr, Hugo and blogdown."
+    footer = "All rights reserved  &copy; [dancingapple](https://steemit.com/@dancingapple) 2018 \n\n Technical support by [@dapeng](https://steemit.com/@dapeng) with [R steemr](https://CRAN.R-project.org/package=steemr), [R blogdown](https://bookdown.org/yihui/blogdown/), [Hugo](https://gohugo.io/), and [Xmin](https://github.com/yihui/hugo-xmin)"

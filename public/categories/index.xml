@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on STEEM@dancingapple</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on STEEM@dancingapple</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Aug 2018 10:37:18 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Art</title>
+      <link>/categories/art/</link>
+      <pubDate>Sat, 11 Aug 2018 10:37:18 +0000</pubDate>
+      
+      <guid>/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cn</title>
+      <link>/categories/cn/</link>
+      <pubDate>Mon, 10 Sep 2018 04:02:00 +0000</pubDate>
+      
+      <guid>/categories/cn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cn-drawing</title>
+      <link>/categories/cn-drawing/</link>
+      <pubDate>Sun, 08 Apr 2018 06:08:33 +0000</pubDate>
+      
+      <guid>/categories/cn-drawing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cn-reader</title>
+      <link>/categories/cn-reader/</link>
+      <pubDate>Fri, 25 Aug 2017 09:14:18 +0000</pubDate>
+      
+      <guid>/categories/cn-reader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drawingchallenge</title>
+      <link>/categories/drawingchallenge/</link>
+      <pubDate>Sat, 14 Oct 2017 12:10:21 +0000</pubDate>
+      
+      <guid>/categories/drawingchallenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drawitbetter</title>
+      <link>/categories/drawitbetter/</link>
+      <pubDate>Sat, 02 Dec 2017 07:28:33 +0000</pubDate>
+      
+      <guid>/categories/drawitbetter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funny</title>
+      <link>/categories/funny/</link>
+      <pubDate>Sun, 12 Nov 2017 13:40:09 +0000</pubDate>
+      
+      <guid>/categories/funny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Love</title>
+      <link>/categories/love/</link>
+      <pubDate>Mon, 16 Apr 2018 07:11:42 +0000</pubDate>
+      
+      <guid>/categories/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/categories/music/</link>
+      <pubDate>Sun, 12 Aug 2018 22:02:39 +0000</pubDate>
+      
+      <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sevendaybnwchallenge</title>
+      <link>/categories/sevendaybnwchallenge/</link>
+      <pubDate>Fri, 15 Dec 2017 01:59:09 +0000</pubDate>
+      
+      <guid>/categories/sevendaybnwchallenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skincare</title>
+      <link>/categories/skincare/</link>
+      <pubDate>Thu, 21 Dec 2017 07:01:45 +0000</pubDate>
+      
+      <guid>/categories/skincare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smilechallenge</title>
+      <link>/categories/smilechallenge/</link>
+      <pubDate>Thu, 18 Jan 2018 12:59:03 +0000</pubDate>
+      
+      <guid>/categories/smilechallenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uglyduckling</title>
+      <link>/categories/uglyduckling/</link>
+      <pubDate>Sat, 13 Jan 2018 16:29:48 +0000</pubDate>
+      
+      <guid>/categories/uglyduckling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei-story</title>
+      <link>/categories/wei-story/</link>
+      <pubDate>Sun, 09 Sep 2018 10:20:54 +0000</pubDate>
+      
+      <guid>/categories/wei-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whatsinmybag</title>
+      <link>/categories/whatsinmybag/</link>
+      <pubDate>Sat, 30 Dec 2017 07:40:27 +0000</pubDate>
+      
+      <guid>/categories/whatsinmybag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

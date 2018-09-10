@@ -1,0 +1,80 @@
+---
+title: "国画牡丹"
+author: dancingapple
+date: "2018-04-19 11:27:57"
+slug: 4tgaz
+categories: [art]
+tags: 
+  - art
+  - cn
+---
+
+原文链接: [steemit](https://steemit.com), [cnsteem](https://cnsteem.com), [busy](https://busy.org), [chainbb](https://chainbb.com), [steemdb](https://steemdb.com), [steemd](https://steemd.com), [busy](https://busy.org), [markdown](https://raw.githubusercontent.com/pzhaonet/steem_dancingapple/master/content/post/4tgaz.md)
+
+<html>
+<p>https://steemitimages.com/DQmbByJfDBkowhD9jMFDBf6q1HCRuWFhbvhC2kX8gQisarj/991996B1-117D-41B9-A69F-59F5CCAA75E4.gif</p>
+<p><br></p>
+<p>如果没有记错，我第一次画牡丹是在1999年，在那之前也许我并没有见过真正的牡丹。</p>
+<p>事实上，我在画册上看到的牡丹以及我画过的牡丹，比我见过的真牡丹还要多。最近 @victory622 写了牡丹系列，配上图片介绍了各个品种的牡丹花，我看了以后的第一感觉是……怎么可以有这么多的牡丹花……</p>
+<p>在我家乡，牡丹花只是迎春花市里最昂贵的盆栽，几百上千块一株，而且很难栽种，往往是没摆上几个月就say goodbye。</p>
+<p>小时候不懂，老师怎么教就怎么画。但这仅仅只是一种没有生命力的模仿。</p>
+<p>画画唯一的康庄大道，就是四个字——师法自然。</p>
+<p>只有认真细致观察了自然，懂得了其中规律，再结合自身的画技及艺术修养，这样创造出来的东西才能呈现出它独有的生命力。</p>
+<p>看了这一系列牡丹花的介绍及照片，我大概明白了为什么牡丹花如此难画——</p>
+<p>因为牡丹的美是热情的，饱满的，奔放的，它几乎不给你任何留白的空间；说得再通俗一点就是：你要美吗？来，看我啊，管饱。</p>
+<p>跟傲雪寒梅不一样，牡丹像一个既美艳又接地气的女郎，你会觉得她的美是唾手可得的。</p>
+<p>最容易得到的东西，往往会被推至于“俗气”的临界点。</p>
+<p>所以牡丹啊，真的很难画。难在于——</p>
+<blockquote>如何在“贵气”中避免“俗气”。</blockquote>
+<p>这就要在“师法自然”的基础上看看大师们是怎么表现的了。</p>
+<p>总的来说，大师级的牡丹都有一个共性，那就是咋一眼看上去并不美艳，像是大美人卸了妆，骨像皮像都不错，但少了脂粉气。然而耐看，越看越美，美的是牡丹真正的那种气质。这就是大师的境界。</p>
+<p>在 @victory622 的帖子里我挑了一张相片，并用我的方式把它画了出来，下面是绘图过程：</p>
+<p><br></p>
+<p>https://steemitimages.com/DQme7MQY4TPfnWppAw6BKLZMBKDFYLCuLqXFJMxcQijbL55/B76F4BB2-FD0D-48BF-9EBF-993F0C4EDB2C.jpeg</p>
+<p>材料准备：熟宣、毛笔、国画颜料、墨、镇纸</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmXyn5fyQwt6HGhVZuE9yrc6HxLHCoAeHtyXXPzn49tgwv/DD306F29-6A11-46A3-BBDB-C8284131C98E.jpeg</p>
+<p>1、跟以往的写意画法不一样，这次我选择的是工笔+写意，先勾勒出牡丹花的大致形状并淡淡染一层颜色；</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmduaiZtJHVFUFvKkfoMzqhBQLYaHsRz1jViyo91ombBfb/C8F0E4A1-E84B-4310-81EF-8F81E5483351.jpeg</p>
+<p>https://steemitimages.com/DQmdNc4zSxvQktwG2Mm6jMxcWNnfLh8KeoYQWiNrticWRJ9/42DE9F15-CCB1-4278-B53C-AA26C6C25BD3.jpeg</p>
+<p>2、分染要逐层干透，等待时间里，不闲着，在旁边画两块石头，让花的娇嫩与石头形成对比，枯荣结合；</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmPNT2pn8zWbaWBezVvnHUWDFx7jkyur5CEkDR1LN3Kb1P/B148A06F-9A0F-4B0F-89E2-7141266577F7.jpeg</p>
+<p>3、接着再分染；</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmdgZHM4EpLjiYn62rJzGda3atHciaXkShVKc6eGen6AVa/7B2A3B5F-61E8-4DA3-88C7-974E9ACBDA0C.jpeg</p>
+<p>https://steemitimages.com/DQmXChXX4Tjn2zw2YVGyk4ZeKiEfwoiHmUEqzC8Wnc3b1Eb/C78F2B89-E659-4123-A74C-DD96AF1755B5.jpeg</p>
+<p>4、花卉旁边加上叶子。牡丹是一柄三叶，另外避免俗气，我选择了“花青+藤黄+墨”；</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmZ3cHtkateqnLXiu7nFVvXMbFXSzxiqpeCmVhq8mifjVF/5AA88BF6-3F36-4DBB-992A-B5076781969D.jpeg</p>
+<p>https://steemitimages.com/DQmYsV8QG6gtVDeYu5wwKqm3LmkdAQvRdTtQmPYvk1VRe1a/223CA472-79A1-4E47-A4BF-517501DDE615.gif</p>
+<p>https://steemitimages.com/DQmSYEo66QLS5EYiX4nBzevwbSBdACZUpsTaGCdVWxE3Wkb/9B1FC6FD-A2A9-4320-B1F0-511DAD552444.gif</p>
+<p>https://steemitimages.com/DQmNkoNQKJRus68NhL6kZzEUEPN5VXVKGvrt2wEmVQ34p5H/DB777E30-17E5-4230-8E2D-89161A4CD014.jpeg</p>
+<p>5、花卉下方加上枝叶。叶子不可能千篇一律，所以嫩&amp;老要用不同色调，注意这里也要有虚实对比，不然会显得死板，违背自然；</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmc6akGT6p5FkmBETMZqfapic922FpmggCDfYHS3HDMbnk/736EAE8F-E2B5-471D-B667-D29BCD9B44B4.jpeg</p>
+<p>https://steemitimages.com/DQmP6Dpgw1Vn1jQ3HaRGFTwjTxe1tqVdTQGVP8akbJ16Xrj/FB10C816-C984-4D6B-A749-AD189AC6DED4.jpeg</p>
+<p>https://steemitimages.com/DQmZYbmWVPtM5Ggc7raiyUA7q5KTuWqcvhPbvZLckzc15rL/F7B35CBB-AF2C-4C03-870F-965548D5F469.jpeg</p>
+<p>6、再给花卉染上几层色；</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmQqN2cuif2aTpAzFMU7PHfn6KuMzSAUBtDE6j92gLiDNM/27A8F1F2-D7C8-44FC-B1CB-EDD019F68010.jpeg</p>
+<p>https://steemitimages.com/DQmWoc8SzgHT6yYMFbzPiDVdA4BwTmqtoAjdq6GGqV1yC1B/0932DB9C-9071-4907-886B-3D753A584F6E.jpeg</p>
+<p>https://steemitimages.com/DQmWWgWrjriooYapGRNz7AXj6ChebjEEje8oq2ngFi1a3Vo/33B575DF-085F-45F9-969C-4AB3DEA0E4E2.jpeg</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmYUcU2EQH5LaDZtVx7g6z5jVtdKbjt7DrZnXrPZKGCx2q/5C81C69A-7F6B-4219-992A-32B7DA7FCCA1.jpeg</p>
+<p>7、现在有了花、石头和小草，缺点什么呢？动静结合，添几只蝴蝶，让画面灵动起来；</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmSjZPhBEBbhdKBRsGYhKTUbwRConiojGgTXaxW5jJX4AC/598032EE-8B89-4D0C-A2EB-46B9020C83B1.jpeg</p>
+<p>8、蝴蝶也要注意虚实结合，靠我们近一点的要画得细致一点，远一点的就抽象一点，这样才符合视觉规律；</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmPTuk8U652gn8ntsrD34SDMBg37ziBB4BoyG5X1B3DKgi/537A264C-4C27-417A-ACE4-521C0848A4BE.jpeg</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmNtL8qyPJNn3r7cZcGpH7M6Kt5utrXgkrRkG1YMzYPvcg/7FB6F5F2-851F-47D5-A95A-83D14DB5B78C.jpeg</p>
+<p>9、最后题字，题字是 一幅画的点睛之笔，它的作用是让画面得以延伸，就是，提示别人去想一些画外之音。</p>
+<p><br></p>
+<p>https://steemitimages.com/DQmUU4xrB6NeZ3H4NyS3GfbRDeAqzaUdAWKW7p7G94bVMY3/78040049-652F-4447-BFFC-C2C90D9D2A69.jpeg</p>
+<p><br></p>
+<p>一个没有见过多少牡丹的人，却展示画它的过程，有点惭愧，哈哈。</p>
+<p>前面说到，我是在@victory622的帖子里拿一张照片临摹的，那么问题来了——你知道我画的是哪一个品种的牡丹吗？</p>
+</html>

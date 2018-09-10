@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Culturevulture on STEEM@dancingapple</title>
+    <link>/tags/culturevulture/</link>
+    <description>Recent content in Culturevulture on STEEM@dancingapple</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2017 17:38:30 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/culturevulture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>圣旨到 Imperial edict</title>
+      <link>/post/the-decree/</link>
+      <pubDate>Wed, 01 Nov 2017 17:38:30 +0000</pubDate>
+      
+      <guid>/post/the-decree/</guid>
+      <description>原文链接: steemit, cnsteem, busy, chainbb, steemdb, steemd, busy, markdown
+圣旨，顾名思义，就是圣上（皇帝）下发的旨意。 我把它理解为封建时期的红头文件。
+&amp;ldquo;奉天承运皇帝诏曰&amp;rdquo; 这句话我们一点都不陌生，从小到大在电视剧里都不知道听了多少回了对不对。
+但这里面有几点我们一直被误导了很多年。
+Imperial edict, as the name implies, is the will of the Saint (the emperor). And I understand it as a red-headed document of the feudal period.
+&amp;ldquo;It&amp;rsquo;s the God&amp;rsquo;s wiliness and the emperor&amp;rsquo;s command that&amp;rdquo;, Chinese are familiar with this sentence since it always appears in TV series from their childhood.
+But there are a few things we have been misled for many years.</description>
+    </item>
+    
+  </channel>
+</rss>
